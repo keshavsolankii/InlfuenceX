@@ -18,7 +18,7 @@ export default function About() {
       <ValueSection />
       <StatsSection />
       <WhyChooseUsSection />
-      <TeamSection />
+      {/* <TeamSection /> */}
       <CTASection />
     </div>
   );
