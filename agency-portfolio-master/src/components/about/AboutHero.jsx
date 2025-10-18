@@ -39,7 +39,7 @@ export default function AboutHero() {
             className="inline-flex items-center gap-2 bg-teal-600/20 backdrop-blur-sm text-teal-300 px-4 md:px-5 py-2 md:py-2.5 rounded-full text-xs md:text-sm font-medium border border-teal-500/30 mb-6 md:mb-8"
           >
             <Sparkles className="w-3 h-3 md:w-4 md:h-4" />
-            <span>About InfluenceX</span>
+            <span>About RevuVerse</span>
           </motion.div>
 
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-white mb-4 md:mb-6 leading-tight">

@@ -11,7 +11,7 @@ export default function Header() {
         {/* Logo */}
         <a href="/" className="group">
           <h1 className="text-2xl font-bold bg-gradient-to-r from-teal-300 to-teal-500 bg-clip-text text-transparent tracking-tight">
-            InfluenceX
+          RevuVerse
           </h1>
         </a>
 

@@ -2,15 +2,16 @@ import React from 'react';
 
 const brands = [
   { name: "Soulflower", emoji: "🤝" },
-  { name: "Oscar Homes", emoji: "🤝" },
+  { name: "Oscar Home", emoji: "🤝" },
   { name: "Calibar", emoji: "🤝"  },
   { name: "Svish On The Go", emoji: "🤝" },
   { name: "Beco", emoji: "🤝" },
   { name: "Boffit", emoji: "🤝" },
-  { name: "Everyuth Naturals", emoji: "🤝" },
+  { name: "Conscious Chemist", emoji: "🤝" },
   { name: "Earthen Story", emoji: "🤝" },
   { name: "Nutrabud", emoji: "🤝" },
   { name: "Ecosys", emoji: "🤝" },
+  { name: "Earthful", emoji: "🤝" },
 ];
 
 export default function Brands() {
