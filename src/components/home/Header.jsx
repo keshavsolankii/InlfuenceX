@@ -6,12 +6,16 @@ export default function Header() {
 
   return (
     <header className="absolute top-0 w-full z-50 bg-white/10 backdrop-blur-xl border-b border-white/20">
-
       <div className="max-w-7xl mx-auto flex justify-between items-center py-4 px-6">
         {/* Logo */}
-        <a href="/" className="group">
+        <a href="/" className="group flex items-center space-x-2">
+          <img
+            src="/logo.png"
+            alt="RevuVerse logo"
+            className="w-8 h-8 rounded-md mt-1"
+          />
           <h1 className="text-2xl font-bold bg-gradient-to-r from-teal-300 to-teal-500 bg-clip-text text-transparent tracking-tight">
-          RevuVerse
+            RevuVerse
           </h1>
         </a>
 
